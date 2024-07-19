@@ -1,2 +1,0 @@
-# CryptoCointegrated
-MCE Group Assignment
